@@ -1,2 +1,0 @@
-cargo:rerun-if-changed=proto/route_guide.proto
-cargo:rerun-if-changed=proto
