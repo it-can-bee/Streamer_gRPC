@@ -1,0 +1,10 @@
+/Users/liangchaohuang/Desktop/test/DoubleDragon/0730/more_gRPC/target/debug/deps/liblog-6d65aec50b647aef.rmeta: /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/lib.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/macros.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/serde.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/__private_api.rs
+
+/Users/liangchaohuang/Desktop/test/DoubleDragon/0730/more_gRPC/target/debug/deps/liblog-6d65aec50b647aef.rlib: /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/lib.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/macros.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/serde.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/__private_api.rs
+
+/Users/liangchaohuang/Desktop/test/DoubleDragon/0730/more_gRPC/target/debug/deps/log-6d65aec50b647aef.d: /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/lib.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/macros.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/serde.rs /Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/__private_api.rs
+
+/Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/lib.rs:
+/Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/macros.rs:
+/Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/serde.rs:
+/Users/liangchaohuang/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/log-0.4.22/src/__private_api.rs:
