@@ -4,8 +4,7 @@
 /// Latitudes should be in the range +/- 90 degrees and longitude should be in
 /// the range +/- 180 degrees (inclusive).
 #[allow(clippy::derive_partial_eq_without_eq)]
-#[derive(Clone, Copy, PartialEq, ::prost::Message)]
-#[derive(Hash)]
+#[derive(Clone, Copy, Hash, PartialEq, ::prost::Message)]
 pub struct Point {
     #[prost(int32, tag = "1")]
     pub latitude: i32,
